@@ -138,9 +138,24 @@
               "target": "_self"
             }
           ]
+        },
+        {
+          "title": "数据展示",
+          "href": "",
+          "icon": "fa fa-snowflake-o",
+          "target": "",
+          "child": [
+            {
+              "title": "数据查询",
+              "href": "../static/page/search.html",
+              "icon": "fa fa-snowflake-o",
+              "target": "_self"
+            }
+          ]
         }
       ]
     },
+    
     {
       "title": "组件管理",
       "icon": "fa fa-lemon-o",
