@@ -16,12 +16,6 @@
       "target": "_self",
       "child": [
         {
-          "title": "文件上传",
-          "href": "../static/page/upload.html",
-          "icon": "fa fa-arrow-up",
-          "target": "_self"
-        },
-        {
               "title": "数据查询",
               "href": "../static/page/search.html",
               "icon": "fa fa-arrow-up",
